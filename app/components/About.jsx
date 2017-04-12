@@ -5,7 +5,7 @@ var About = (props) => {
     <div className="text-center">
       <h1>About This Application</h1>
       <p>This is a test application created in React</p>
-      <p>Weather data is courtesy of <a href='http://openweathermap.org' target="_blank">OpenWeatherMap</a></p>
+      <p>Weather data is courtesy of <a href='http://openweathermap.org' target="_blank">Open Weather Map</a></p>
     </div>
   )
 };
